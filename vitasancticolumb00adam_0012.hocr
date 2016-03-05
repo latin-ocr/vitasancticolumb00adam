@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitasancticolumb00adam_0012.png"; bbox 0 0 1914 2518; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 10 1569 36 1643">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 10 1569 36 1643">
+     <span class='ocr_line' id='line_1_1' title="bbox 10 1569 21 1643; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 10 1569 21 1643; x_wconf 33' lang='grc' dir='ltr'><strong>Λα--</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 26 1595 36 1628; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 26 1595 36 1628; x_wconf 65' lang='lat'><strong>01</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 409 0 1914 2518">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 409 0 1914 2518">
+     <span class='ocr_line' id='line_1_3' title="bbox 409 0 1914 2518; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 409 0 1914 2518; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
